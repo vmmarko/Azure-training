@@ -1,9 +1,15 @@
+<!DOCTYPE html>
 <html>
 <head>
-<title>Hello World!</title>
+<title>Azure training - Hello World!</title>
 </head>
 <body>
-	<h1>Hello Milenko & IGD TEAM!</h1>
+	<div>
+		<h1>Hello Vladislav & WoltersKluwer TEAM!</h1>
+	</div>
+	<div>
+		<img src"https://wolterskluwer.com/webfiles/1536676296662/images/logo/wolters-kluwer-logo-full.png" alt="Go to W3Schools!" width="334" height="96" border="10">
+	</div>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
