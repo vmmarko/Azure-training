@@ -8,7 +8,7 @@
 		<h1>Hello Vladislav & WoltersKluwer TEAM!</h1>
 	</div>
 	<div>
-		<img src"https://wolterskluwer.com/webfiles/1536676296662/images/logo/wolters-kluwer-logo-full.png" alt="Go to W3Schools!" width="334" height="96" border="10">
+		<img src"https://wolterskluwer.com/webfiles/1536676296662/images/logo/wolters-kluwer-logo-full.png" alt="Logo" width="334" height="96" border="10">
 	</div>
 	<p>
 		It is now
