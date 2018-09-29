@@ -16,4 +16,8 @@
 	<p>
 		You are coming from 
 		<%= request.getRemoteAddr()  %></p>
+        <p>
+            Test:
+            <%= HelloAppTest()  %></p>
+        </p>
 </body>
