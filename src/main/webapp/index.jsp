@@ -18,6 +18,6 @@
 		<%= request.getRemoteAddr()  %></p>
         <p>
             Test:
-            <%= HelloAppTest()  %></p>
+            <%= request.HelloAppTest()  %></p>
         </p>
 </body>
