@@ -4,6 +4,7 @@
         <title>Azure training - Hello World!</title>
     </head>
     <body>
+    <center>
         <div>
             <h1>Hello Vladislav & WoltersKluwer TEAM!</h1>
         </div>
@@ -59,8 +60,7 @@
          }
          application.setAttribute("hitCounter", hitsCount);
             %>
-        <center>
-            <p>Total number of visits: <%= hitsCount%></p>
-        </center>
-        </P>
-    </body>
+        <p>Total number of visits: <%= hitsCount%></p>
+    </center>
+</P>
+</body>
