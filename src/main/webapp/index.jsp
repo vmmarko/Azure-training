@@ -59,5 +59,8 @@
          }
          application.setAttribute("hitCounter", hitsCount);
             %>
+        <center>
+            <p>Total number of visits: <%= hitsCount%></p>
+        </center>
         </P>
     </body>
