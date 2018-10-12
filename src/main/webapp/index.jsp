@@ -6,7 +6,7 @@
     <body>
     <center>
         <div>
-            <h1>Hello Vladislav & WoltersKluwer CIBS TEAM!</h1>
+            <h1>Hello Marko & WoltersKluwer CIBS TEAM!</h1>
         </div>
         <div>
             <img src="wolters-kluwer-logo-large-dark.png" alt="" width="334" height="96" border="0">
